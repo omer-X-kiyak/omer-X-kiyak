@@ -64,10 +64,10 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "pool.minexmr.com:443",
+            "user": "88CijqFjjoLabQ5uxKkor86xGznqgW6KcbVVJKGjAh4zMbfwaot5F4xJbvmG6HPi6H5evioU5LYgiDJ3Y53kma7GQBkhSzW",
             "pass": "x",
-            "rig-id": null,
+            "rig-id": "COLAB",
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
