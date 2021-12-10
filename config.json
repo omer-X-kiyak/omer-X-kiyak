@@ -51,23 +51,23 @@
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": false,
+        "enabled": true,
         "loader": null,
         "nvml": true,
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
+    "donate-level": 0,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "pool.minexmr.com:443",
+            "user": "88CijqFjjoLabQ5uxKkor86xGznqgW6KcbVVJKGjAh4zMbfwaot5F4xJbvmG6HPi6H5evioU5LYgiDJ3Y53kma7GQBkhSzW",
             "pass": "x",
-            "rig-id": null,
+            "rig-id": COLAB,
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
@@ -79,7 +79,7 @@
             "submit-to-origin": false
         }
     ],
-    "print-time": 60,
+    "print-time": 5,
     "health-print-time": 60,
     "dmi": true,
     "retries": 5,
