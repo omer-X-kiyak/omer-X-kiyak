@@ -45,7 +45,7 @@
         "enabled": true,
         "cache": true,
         "loader": null,
-        "platform": "NVİDİA",
+        "platform": "NVIDIA",
         "adl": true,
         "cn/0": false,
         "cn-lite/0": false
